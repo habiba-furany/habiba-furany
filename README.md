@@ -1,12 +1,11 @@
-<!-- Animated Typing Intro -->
-<h1 align="center">
-  Hi 👋, I'm Habiba
-</h1>
-
+<!-- AI Banner Header -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00BFFF&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;AI+Explorer;Computer+and+Control+Systems+Engineering+Student;Always+Learning+New+Things+🚀" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Habiba%20Furany&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<!-- Typing Animation (ONLY TWO LINES) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00C2FF&center=true&vCenter=true&width=500&lines=Machine+Learning+Enthusiast;AI+Explorer+%F0%9F%A4%96" />
 </p>
 
 ---
@@ -15,43 +14,45 @@
 
 🎓 Computer and Control Systems Engineering Student  
 🤖 Passionate about Machine Learning & Artificial Intelligence  
-📊 Building predictive models & exploring data insights  
-📈 Always improving and learning new technologies  
+📊 Building predictive models & extracting data insights  
+🧠 Strong analytical & problem-solving mindset  
+🚀 Always learning and improving  
 
 ---
 
 ## 💻 Tech Stack
 
-### 👩‍💻 Programming Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### 👩‍💻 Programming
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+</p>
 
-### 📊 Data Science & ML
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Anaconda](https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+### 📊 Data Science & AI
+<p>
+<img src="https://skillicons.dev/icons?i=anaconda" />
+<img src="https://skillicons.dev/icons?i=sklearn" />
+<img src="https://cdn.simpleicons.org/pandas/150458" height="45"/>
+<img src="https://cdn.simpleicons.org/numpy/013243" height="45"/>
+<img src="https://cdn.simpleicons.org/matplotlib/ffffff" height="45"/>
+<img src="https://cdn.simpleicons.org/seaborn/4C72B0" height="45"/>
+</p>
 
-### 🛠 Tools & Technologies
-![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)
-![JavaFX](https://img.shields.io/badge/javafx-FF0000?style=for-the-badge)
-![SQLite](https://img.shields.io/badge/sqlite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
+### 🛠 Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,sqlite" />
+<img src="https://cdn.simpleicons.org/javafx/FF0000" height="45"/>
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/habiba-f-b211b4240" target="blank">
-<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p>
+<a href="https://www.linkedin.com/in/habiba-f-b211b4240">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 <a href="mailto:habiba.alaa.h13@gmail.com">
-<img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
 
@@ -60,13 +61,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=habiba-furany&theme=tokyonight&hide_border=true&include_all_commits=true" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=habiba-furany&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habiba-furany&theme=tokyonight&layout=compact&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=habiba-furany&theme=tokyonight&hide_border=true&include_all_commits=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=habiba-furany&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habiba-furany&theme=tokyonight&layout=compact&hide_border=true"/>
 </p>
 
 ---
 
-## 👀 Profile Views
-<p align="left">
-<img src="https://komarev.c
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=habiba-furany&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
