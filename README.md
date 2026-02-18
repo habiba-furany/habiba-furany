@@ -82,24 +82,6 @@
 
 ---
 
-# 📂 Projects
-
-> Projects will be added here soon.  
-
-<p align="center">
-  <!-- Example placeholder, replace with real project links -->
-  <i>Coming soon...</i>
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=habiba-furany&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=habiba-furany&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habiba-furany&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
