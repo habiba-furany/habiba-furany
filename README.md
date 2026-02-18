@@ -45,7 +45,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="55"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/seaborn/4C72B0" height="55"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/seaborn.svg" height="55"/>
 </p>
 
 ---
@@ -55,7 +55,7 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/ios-filled/512/github.png" height="55"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" height="55"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="55"/>
   &nbsp;&nbsp;&nbsp;
