@@ -82,6 +82,17 @@
 
 ---
 
+# 📂 Projects
+
+> Projects will be added here soon.  
+
+<p align="center">
+  <!-- Example placeholder, replace with real project links -->
+  <i>Coming soon...</i>
+</p>
+
+---
+
 # 📊 GitHub Stats
 
 <p align="center">
@@ -91,12 +102,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habiba-furany&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=habiba-furany&label=Profile%20Views&color=00C2FF&style=flat" />
 </p>
 
 <!-- ================= FOOTER ================= -->
