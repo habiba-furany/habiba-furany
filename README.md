@@ -1,76 +1,54 @@
-<!-- AI Banner Header -->
+<!-- 🔥 Better AI Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Habiba%20Furany&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=Habiba%20Furany&fontSize=45&color=0:141E30,100:243B55&fontColor=00F5FF&animation=fadeIn" />
 </p>
 
-<!-- Typing Animation (ONLY TWO LINES) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00C2FF&center=true&vCenter=true&width=500&lines=Machine+Learning+Enthusiast;AI+Explorer+%F0%9F%A4%96" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=00F5FF&center=true&vCenter=true&width=500&lines=Machine+Learning+Enthusiast;AI+Explorer+%F0%9F%A4%96" />
 </p>
 
 ---
 
-## 💫 About Me
+# 💻 Tech Stack
 
-🎓 Computer and Control Systems Engineering Student  
-🤖 Passionate about Machine Learning & Artificial Intelligence  
-📊 Building predictive models & extracting data insights  
-🧠 Strong analytical & problem-solving mindset  
-🚀 Always learning and improving  
+## 👩‍💻 Programming
 
----
-
-## 💻 Tech Stack
-
-### 👩‍💻 Programming
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
-</p>
-
-### 📊 Data Science & AI
-<p>
-<img src="https://skillicons.dev/icons?i=anaconda" />
-<img src="https://skillicons.dev/icons?i=sklearn" />
-<img src="https://cdn.simpleicons.org/pandas/150458" height="45"/>
-<img src="https://cdn.simpleicons.org/numpy/013243" height="45"/>
-<img src="https://cdn.simpleicons.org/matplotlib/ffffff" height="45"/>
-<img src="https://cdn.simpleicons.org/seaborn/4C72B0" height="45"/>
-</p>
-
-### 🛠 Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,sqlite" />
-<img src="https://cdn.simpleicons.org/javafx/FF0000" height="45"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" height="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" height="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" height="55"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 📊 Data Science & AI
 
-<p>
-<a href="https://www.linkedin.com/in/habiba-f-b211b4240">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-<a href="mailto:habiba.alaa.h13@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=anaconda" height="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=sklearn" height="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=pandas" height="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=numpy" height="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=matplotlib" height="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=seaborn" height="55"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🛠 Tools
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=habiba-furany&theme=tokyonight&hide_border=true&include_all_commits=true" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=habiba-furany&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habiba-furany&theme=tokyonight&layout=compact&hide_border=true"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=habiba-furany&label=Profile%20Views&color=0e75b6&style=flat" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=sqlite" height="55"/>
 </p>
