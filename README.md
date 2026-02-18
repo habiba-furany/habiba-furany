@@ -1,11 +1,9 @@
-<!-- ================= HEADER ================= -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:1CB5E0,100:000046&height=260&section=header&text=Habiba%20Furany&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:1CB5E0,100:000046&height=260&section=header&text=Habiba%20Furany&fontSize=70&fontColor=ffffff&animation=enlarge&fontAlignY=40"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&pause=500&color=00C2FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast+%7C+AI+Explorer&repeat=2" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00C2FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;AI+Explorer;Data+Science+Student" />
 </p>
 
 ---
@@ -25,13 +23,7 @@
 ## 👩‍💻 Programming
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c" height="55"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cpp" height="55"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=java" height="55"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=python" height="55"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" height="55"/>
 </p>
 
 ---
@@ -39,17 +31,7 @@
 ## 📊 Data Science & AI
 
 <p>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/anaconda/anaconda.png" height="55"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/scikit-learn/scikit-learn.png" height="55"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/pandas/pandas.png" height="55"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/numpy/numpy.png" height="55"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/matplotlib/matplotlib.png" height="55"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/seaborn/seaborn.png" height="55"/>
+  <img src="https://skillicons.dev/icons?i=anaconda,sklearn,pandas,numpy,matplotlib,seaborn" height="55"/>
 </p>
 
 ---
@@ -57,13 +39,9 @@
 ## 🛠 Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git" height="55"/>
+  <img src="https://skillicons.dev/icons?i=git,github,sqlite" height="55"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" height="55"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=sqlite" height="55"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javafx/javafx.png" height="55"/>
+  <img src="https://img.icons8.com/color/55/000000/java-coffee-cup-logo.png" height="55" alt="JavaFX"/> 
 </p>
 
 ---
@@ -81,9 +59,6 @@
 </p>
 
 ---
-
-
-<!-- ================= FOOTER ================= -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000046,100:1CB5E0&height=120&section=footer"/>
