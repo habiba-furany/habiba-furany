@@ -1,30 +1,22 @@
-<!-- ================= ANIMATED HEADER ================= -->
-
-<div align="center">
-
-<h1 style="font-size: 30px; animation: grow 2s ease-in-out forwards;">
-  Hi, I'm Habiba Furany
-</h1>
-
-</div>
+<!-- ================= HEADER ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&delay=2000&color=00C2FF&center=true&vCenter=true&width=500&lines=Machine+Learning+Enthusiast;AI+Explorer+%F0%9F%A4%96" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:1CB5E0,100:000046&height=260&section=header&text=Habiba%20Furany&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 </p>
 
-<style>
-@keyframes grow {
-  from { font-size: 30px; opacity: 0; }
-  to { font-size: 55px; opacity: 1; }
-}
-</style>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&pause=100000&color=00C2FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast+%7C+AI+Explorer" />
+</p>
 
 ---
 
 ## 💫 About Me
 
-Computer and Control Systems Engineering student focused on Machine Learning and AI.  
-Building predictive models, exploring data, and continuously improving problem-solving skills.
+🎓 Computer and Control Systems Engineering Student  
+🤖 Focused on Machine Learning & Artificial Intelligence  
+📊 Developing predictive models and transforming data into actionable insights  
+🧠 Strong analytical thinking with a problem-solving mindset  
+🚀 Continuously learning and expanding technical expertise 
 
 ---
 
@@ -105,4 +97,10 @@ Building predictive models, exploring data, and continuously improving problem-s
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=habiba-furany&label=Profile%20Views&color=00C2FF&style=flat" />
+</p>
+
+<!-- ================= FOOTER ================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000046,100:1CB5E0&height=120&section=footer"/>
 </p>
