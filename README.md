@@ -16,7 +16,6 @@
 🎓 Computer and Control Systems Engineering Student  
 🤖 Passionate about Machine Learning & Artificial Intelligence  
 📊 Building predictive models & exploring data insights  
-🧠 Strong problem-solving mindset  
 📈 Always improving and learning new technologies  
 
 ---
