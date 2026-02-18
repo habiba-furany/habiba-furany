@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&pause=100000&color=00C2FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast+%7C+AI+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&pause=500&color=00C2FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast+%7C+AI+Explorer&repeat=2" />
 </p>
 
 ---
@@ -63,7 +63,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=sqlite" height="55"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/javafx/FF0000" height="55"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/JavaFX_Logo.png" height="55"/>
 </p>
 
 ---
@@ -81,10 +81,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habiba-furany&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 <!-- ================= FOOTER ================= -->
 
