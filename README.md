@@ -39,17 +39,17 @@
 ## 📊 Data Science & AI
 
 <p>
-  <img src="https://skillicons.dev/icons?i=anaconda" height="55"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/anaconda/anaconda.png" height="55"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=sklearn" height="55"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/scikit-learn/scikit-learn.png" height="55"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=pandas" height="55"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/pandas/pandas.png" height="55"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=numpy" height="55"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/numpy/numpy.png" height="55"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=matplotlib" height="55"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/matplotlib/matplotlib.png" height="55"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=seaborn" height="55"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/seaborn/seaborn.png" height="55"/>
 </p>
 
 ---
@@ -63,7 +63,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=sqlite" height="55"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/JavaFX_Logo.png" height="55"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javafx/javafx.png" height="55"/>
 </p>
 
 ---
@@ -81,6 +81,7 @@
 </p>
 
 ---
+
 
 <!-- ================= FOOTER ================= -->
 
