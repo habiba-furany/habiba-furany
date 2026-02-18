@@ -31,7 +31,12 @@
 ## 📊 Data Science & AI
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=anaconda,sklearn,pandas,numpy,matplotlib,seaborn" height="50"/>
+  <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/Seaborn-%23447091.svg?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
 ---
