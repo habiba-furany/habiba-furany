@@ -39,7 +39,7 @@
 ## 🛠 Tools & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,sqlite,vscode,pycharm" height="50"/>
+  <img src="https://skillicons.dev/icons?i=git,github,sqlite,vscode" height="50"/>
 </p>
 
 ---
