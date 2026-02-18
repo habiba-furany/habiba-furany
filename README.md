@@ -1,22 +1,30 @@
-<!-- ================= HEADER ================= -->
+<!-- ================= ANIMATED HEADER ================= -->
+
+<div align="center">
+
+<h1 style="font-size: 30px; animation: grow 2s ease-in-out forwards;">
+  Hi, I'm Habiba Furany
+</h1>
+
+</div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&text=Hi%20I'm%20Habiba%20Furany&fontSize=50&fontAlign=50&fontAlignY=40&color=0:141E30,50:1CB5E0,100:000046&fontColor=ffffff&animation=fadeIn&desc=Machine%20Learning%20Enthusiast%20%7C%20AI%20Explorer&descAlign=50&descAlignY=65"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&delay=2000&color=00C2FF&center=true&vCenter=true&width=500&lines=Machine+Learning+Enthusiast;AI+Explorer+%F0%9F%A4%96" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=00E0FF&center=true&vCenter=true&width=500&lines=Machine+Learning+Enthusiast;AI+Explorer+%F0%9F%A4%96" />
-</p>
+<style>
+@keyframes grow {
+  from { font-size: 30px; opacity: 0; }
+  to { font-size: 55px; opacity: 1; }
+}
+</style>
 
 ---
 
 ## 💫 About Me
 
-🎓 Computer and Control Systems Engineering Student  
-🤖 Focused on Machine Learning & Artificial Intelligence  
-📊 Building predictive models and extracting data-driven insights  
-🧠 Strong analytical & problem-solving mindset  
-🚀 Continuously learning and improving  
+Computer and Control Systems Engineering student focused on Machine Learning and AI.  
+Building predictive models, exploring data, and continuously improving problem-solving skills.
 
 ---
 
@@ -24,53 +32,53 @@
 
 ## 👩‍💻 Programming
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c" height="50"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=c" height="55"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cpp" height="50"/>
+  <img src="https://skillicons.dev/icons?i=cpp" height="55"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=java" height="50"/>
+  <img src="https://skillicons.dev/icons?i=java" height="55"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=python" height="50"/>
+  <img src="https://skillicons.dev/icons?i=python" height="55"/>
 </p>
 
 ---
 
 ## 📊 Data Science & AI
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=anaconda" height="50"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=anaconda" height="55"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=sklearn" height="50"/>
+  <img src="https://skillicons.dev/icons?i=sklearn" height="55"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=pandas" height="50"/>
+  <img src="https://skillicons.dev/icons?i=pandas" height="55"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=numpy" height="50"/>
+  <img src="https://skillicons.dev/icons?i=numpy" height="55"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=matplotlib" height="50"/>
+  <img src="https://skillicons.dev/icons?i=matplotlib" height="55"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=seaborn" height="50"/>
+  <img src="https://skillicons.dev/icons?i=seaborn" height="55"/>
 </p>
 
 ---
 
 ## 🛠 Tools & Technologies
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="50"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=git" height="55"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" height="50"/>
+  <img src="https://skillicons.dev/icons?i=github" height="55"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=sqlite" height="50"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" height="55"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/javafx/FF0000" height="50"/>
+  <img src="https://cdn.simpleicons.org/javafx/FF0000" height="55"/>
 </p>
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p>
   <a href="https://www.linkedin.com/in/habiba-f-b211b4240">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
@@ -96,11 +104,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=habiba-furany&label=Profile%20Views&color=00E0FF&style=flat" />
-</p>
-
-<!-- ================= FOOTER ================= -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000046,100:1CB5E0&height=120&section=footer"/>
+  <img src="https://komarev.com/ghpvc/?username=habiba-furany&label=Profile%20Views&color=00C2FF&style=flat" />
 </p>
