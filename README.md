@@ -75,7 +75,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:habiba.alaa.h13@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" height="45"/>
   </a>
 </p>
 
