@@ -76,11 +76,7 @@
 </p>
 
 <p align="center">
-  🌑 <b>Asteroid Diameter Prediction</b><br>
-  End-to-end Machine Learning project for predicting asteroid diameter.<br><br>
-  🧠 Linear, Ridge, Lasso, Random Forest, XGBoost<br>
-  📊 Advanced EDA & Outlier Handling<br>
-  ⚙️ Full preprocessing pipeline
+  <i>Machine Learning • Regression • Space Data</i>
 </p>
 
 ---
