@@ -66,6 +66,13 @@
 </p>
 
 ---
+# 🚀 Featured Projects
+
+<a href="https://github.com/habiba-furany/Asteroid-Diameter-Prediction">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=habiba-furany&repo=Asteroid-Diameter-Prediction&theme=tokyonight"/>
+</a>
+
+---
 
 # 🌐 Connect With Me
 
