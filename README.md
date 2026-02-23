@@ -69,10 +69,21 @@
 
 # 🚀 Featured Projects
 
-## 🌑 Asteroid Diameter Prediction
-End-to-end Machine Learning project for predicting asteroid diameter using regression and ensemble models.
+<p align="center">
+  <a href="https://github.com/habiba-furany/Asteroid-Diameter-Prediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=habiba-furany&repo=Asteroid-Diameter-Prediction&theme=tokyonight&border_radius=15" />
+  </a>
+</p>
 
-🔗 https://github.com/habiba-furany/Asteroid-Diameter-Prediction
+<p align="center">
+  🌑 <b>Asteroid Diameter Prediction</b><br><br>
+  End-to-end Machine Learning regression project that predicts asteroid diameter  
+  using orbital and physical characteristics.<br><br>
+  
+  🧠 <b>Models:</b> Linear Regression, Ridge, Lasso, Random Forest, XGBoost<br>
+  📊 Advanced EDA, Missing Values Handling, Outlier Handling & Feature Engineering<br>
+  ⚙️ Full preprocessing & model comparison pipeline
+</p>
 
 ---
 
