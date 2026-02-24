@@ -66,8 +66,8 @@
 </p>
 
 ---
-
-# 🚀 Asteroid Diameter Prediction
+##🚀 Featured Projects 
+# ☄️ Asteroid Diameter Prediction
 
 **Description:**  
 A complete regression pipeline that includes data cleaning, feature engineering, scaling, and comparison of multiple ML models to identify the best-performing approach.
