@@ -66,7 +66,7 @@
 </p>
 
 ---
-##🚀 Featured Projects 
+## 🚀 Featured Projects 
 # ☄️ Asteroid Diameter Prediction
 
 **Description:**  
