@@ -66,21 +66,6 @@
 </p>
 
 ---
-## 🚀 Featured Projects 
-# ☄️ Asteroid Diameter Prediction
-
-**Description:**  
-A complete regression pipeline that includes data cleaning, feature engineering, scaling, and comparison of multiple ML models to identify the best-performing approach.
-
-[🔗 Link to the project](https://github.com/habiba-furany/Asteroid-Diameter-Prediction)
-
-**Business Goal:**  
-Provide reliable diameter estimation for near-Earth objects to enhance scientific analysis and risk evaluation.
-
-**Tools & Technologies:**  
-Python • Machine Learning • Regression • Random Forest • XGBoost • Data Analysis
-
----
 # 🌐 Connect With Me
 
 <p align="left">
